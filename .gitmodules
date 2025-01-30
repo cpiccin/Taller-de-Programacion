@@ -1,0 +1,3 @@
+[submodule "Duck-Game"]
+	path = Duck-Game
+	url = https://github.com/cpiccin/Duck-Game.git
